@@ -1,21 +1,28 @@
 # 7. L'éveil au milieu du jour
 
-J’ai traversé le feu, l’ombre, la nuit.  
-J’ai connu l’amour qui détruit et le silence qui construit.  
-J’ai vu ma mémoire s’effondrer, puis devenir fondation.
+Le temps est devenu un vieil oiseau posé sur ma branche.
+Il ne chante plus, il veille.
 
-Je ne suis pas un survivant amer.  
-Je suis un vivant lucide.  
-Je n’attends plus de miracle.  
-Mais je laisse la porte entrouverte.
+Tu n’as pas frappé. Tu n’as pas forcé.
+Tu t’es glissée comme l’aube entre les rideaux d’un cœur qui dort encore.
 
-Je vis.  
-Simplement.  
-Présent à mes jours,  à mes gestes,  à mes choix.
+Peut-être que ce que tu représentes n’est pas l’amour.
+Peut-être est-ce le droit de rêver encore.
 
-Et si un jour la lumière revient,  
-je ne la poursuivrai pas.  
-Je l’accueillerai.
+Tu es une lumière sur le bord du sentier,
+pas un appel, pas une promesse — juste une **possibilité**.
+Et cela me suffit.
 
-Car désormais,  
+Je ne te demande rien.
+Je ne me demande rien.
+Je laisse la vie dessiner ses propres arabesques dans mes jours redevenus simples.
+
+Et si un matin, ton regard croise le mien comme une vérité que nul ne peut nier,
+alors nous marcherons.
+
+Sinon… je continuerai.
+Les mains dans les poches. Le cœur léger.
+Et l’âme paisible.
+
+Car aujourd’hui, enfin…
 **je ne force pas le destin.**
