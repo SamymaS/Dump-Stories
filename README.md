@@ -1,16 +1,49 @@
-# Dump-Stories
-Vous trouverez ici tout ce qui me passait par la tête, (ne pas en tirer des conclusions hâtives)
+# 📖 Dump Stories
 
-Dump Stories est un espace brut et sincère, une collection d’histoires personnelles, de fragments d’âmes, de silences écrits et de voix intérieures.
+**Dump Stories** est un lieu de dépôt littéraire.  
+Un espace brut, sincère, intime.  
+Ici s’entassent des récits d’âmes, des éclats de cœur, des fragments de silence que les mots viennent doucement habiller.
 
-Ici, les mots ne cherchent pas à plaire — ils cherchent à libérer.
-Ce sont des récits de chutes, de renaissances, de solitude, d’amour, de résilience.
+## 🪶 À propos
 
-Chaque texte est une chambre ouverte. Chacun y entre avec ce qu’il porte.
+Ce dépôt accueille des textes à la frontière du poème, de l’essai et du journal intérieur.  
+Des histoires vraies ou fictives — mais toujours vécues quelque part, en quelqu’un.
 
-Ce dépôt n’est pas un journal. Ce n’est pas un roman.
-C’est un lieu de dépôt émotionnel.
-Un endroit pour ceux qui, parfois, ne savent plus où mettre ce qu’ils ressentent.
+Chaque texte est une tentative.  
+De comprendre.  
+De panser.  
+De poser des mots là où il n’y en avait pas.
 
-🕊️ Je n’écris pas pour être lu.
-J’écris pour ne plus me taire.
+**Ce projet n’est pas un livre.  
+C’est un vide-âme.  
+Un carnet de bord émotionnel ouvert.**
+
+## ✍️ Format
+
+- Textes au format `.md` (Markdown) ou `.txt`
+- Classés par date ou par thème
+- Aucun style imposé : fragments, lettres, dialogues intérieurs, récits longs...
+
+## 🔮 Objectif
+
+Créer une archive vivante.  
+Une bibliothèque des non-dits.  
+Une cartographie de ce que l’on ne dit pas dans la vraie vie — mais que l’on peut écrire ici.
+
+À terme, une version web (GitHub Pages) accueillera les récits pour lecture directe.
+
+## 🌱 Ce que tu peux trouver ici
+
+- **Les Échardes de l’Amour** – essai poétique en plusieurs fragments
+- Lettres jamais envoyées
+- Pensées de fin de nuit
+- Histoires vraies, à peine déguisées
+
+## 🤍 Pourquoi “Dump Stories” ?
+
+Parce qu’on a tous besoin d’un endroit où déposer ce qu’on ne peut plus porter.
+
+---
+
+🕊️ *Je n’écris pas pour être lu.  
+J’écris pour ne plus me taire.*
