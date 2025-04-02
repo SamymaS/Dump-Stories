@@ -1,14 +1,5 @@
 # 3. La Lueur dans la Faille
 
-
-Elle n’a pas tenté de forcer mes portes.  
-Elle s’est contentée d’être là, à bonne distance.  
-Et c’est peut-être ça, la tendresse véritable :  
-n’avoir aucun besoin, mais être là quand même.
-
-
-
-
 Et puis un jour, sans prévenir, quelque chose a bougé.
 Ce n’était pas un miracle. Ni un coup de foudre.
 Juste une voix douce dans un monde devenu sourd.
@@ -32,15 +23,15 @@ Elle ne voulait pas me sauver.
 Elle voulait juste exister près de moi,
 sans m’exiger.
 
+Et c’est là que j’ai compris.
+Que le cœur, même recousu de fils sombres,
+reste un organe vivant.
+
 Je ne l’aime pas. Pas encore.  
 Je n’en ai pas besoin.  
 Mais grâce à elle,  
 je comprends que je suis capable, encore,  
 de me laisser frôler par la lumière.
-
-Et c’est là que j’ai compris.
-Que le cœur, même recousu de fils sombres,
-reste un organe vivant.
 
 Je ne cherche plus l’amour.
 Mais je ne le fuis plus non plus.
