@@ -34,8 +34,7 @@ c’est moi seul qui me suis battu contre les vagues.
 Elle est partie avant que le ciel ne gronde.
 
 Et quand les fondations ont tremblé,
-elle a jeté les clés sur la table
-et m’a dit que la maison n’était plus la sienne.
+elle a jeté les clés sur la table.
 
 Elle m’a laissé seul et m’a dit que la maison n’était déjà plus la sienne,  
 en posant sur moi la faute, comme un dernier vêtement de culpabilité.
