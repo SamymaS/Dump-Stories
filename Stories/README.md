@@ -14,10 +14,8 @@ C’est un lieu de mémoire intérieure. Un abri pour les mots qu’on n’ose p
 ### 💔 Les Échardes de l'Amour
 Un voyage intérieur, du cœur brisé à la lente reconquête de soi.
 
-- [Accéder au recueil](./les-echardes-de-lamour/README.md)
-- - [Accéder au recueil](/Stories/les-echardes-de-l'amour/README.md)
+[Accéder au recueil](/Stories/les-echardes-de-l'amour/README.md)
 
-1. [Les Échardes de l'Amour](./01-les-echardes-de-lamour.md)
 ---
 
 🕊️ *Je n’écris pas pour être lu. J’écris pour ne plus me taire.*
