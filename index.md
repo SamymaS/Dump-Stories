@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner-dump-stories.png" alt="Dump Stories" style="max-width: 100%; border-radius: 8px;">
+  <img src="images/banner-dump-stories.png" alt="Dump Stories" style="max-width: 100%; border-radius: 8px;">
 </p>
 
 # ✒️ Dump Stories
