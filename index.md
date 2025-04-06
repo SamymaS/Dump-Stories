@@ -36,7 +36,7 @@ Tu trouveras ici :
 
 Un cycle de 7 fragments, du déchirement à l’éveil.
 
-> [Lire le recueil](./stories/les-echardes-de-lamour/index.md)
+> [Lire le recueil](./stories/les-echardes-de-l'amour/index.md)
 
 ---
 
